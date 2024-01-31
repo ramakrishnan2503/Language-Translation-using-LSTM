@@ -13,7 +13,7 @@ This project implements a Language Translation system using Long Short-Term Memo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/language-translation-lstm.git
+    git clone https://github.com/ramakrishnan2503/Language_Translation_using_LSTM.git
     ```
 
 2. Install the required dependencies:
