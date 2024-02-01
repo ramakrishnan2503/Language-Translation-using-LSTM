@@ -58,13 +58,12 @@ The translation model utilizes LSTM (Long Short-Term Memory) networks for sequen
 - `fre_eng_model.py`: Script for loading the trained LSTM model and performing translations for French to English.
 - `eng_spa_model.py`: Script for loading the trained LSTM model and performing translations for English to Spanish.
 - `spa_eng_model.py`: Script for loading the trained LSTM model and performing translations for Spanish to English.
-- `Models` : Contains the encoder,decoder and tokenizer for translation tasks.
   
 ## Acknowledgments
 
 The LSTM model is trained for basic translation purposes and is not fine-tuned on vast datasets.
 
-**Download Model,Encoder,Decoder and Tokenizer**:[Drive](https://drive.google.com/drive/folders/1U31eq0EmvcbfD82i6P46XFcBCa6uuGKq?usp=drive_link)
+**Download Model,Encoder,Decoder and Tokenizer**:[Drive](https://drive.google.com/drive/folders/1U31eq0EmvcbfD82i6P46XFcBCa6uuGKq?usp=sharing)
 
 **Note:** The models and tokenizers have been saved for convenient usage.
 
