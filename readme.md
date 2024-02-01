@@ -64,6 +64,7 @@ The translation model utilizes LSTM (Long Short-Term Memory) networks for sequen
 
 The LSTM model is trained for basic translation purposes and is not fine-tuned on vast datasets.
 
+**Download Model,Encoder,Decoder and Tokenizer**:[Drive](https://drive.google.com/drive/folders/1U31eq0EmvcbfD82i6P46XFcBCa6uuGKq?usp=drive_link)
 
 **Note:** The models and tokenizers have been saved for convenient usage.
 
