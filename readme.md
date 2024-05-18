@@ -16,21 +16,16 @@ This project implements a Language Translation system using Long Short-Term Memo
     git clone https://github.com/ramakrishnan2503/Language_Translation_using_LSTM.git
     ```
 
-2. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the app:
+2. Run the app:
 
     ```bash
     streamlit run app.py
     ```
 
-4. Open your web browser and navigate to the provided URL.
+3. Open your web browser and navigate to the provided URL.
 
-5. Enter an English sentence in the input box, select the desired translation language, and click the "Translate" button.
+4. Enter an English sentence in the input box, select the desired translation language, and click the "Translate" button.
    
 ### Model Details
 
